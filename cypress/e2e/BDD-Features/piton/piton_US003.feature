@@ -12,4 +12,3 @@ Feature: US003 user dashboard
     And User should be able navigate edit event when click the edit event button
     And User should be able to view event participants
     And User should be able to delete event when click the delete button
-    

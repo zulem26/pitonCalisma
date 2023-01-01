@@ -13,4 +13,3 @@ Feature: US001 performs user login operations
     And user fills the password box
     And user clicks the login button
     Given user should got to the panel and see the welcome text
-
